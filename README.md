@@ -12,6 +12,14 @@ The program gives you hints — whether the number is **higher** or **lower** �
 6. It will also show how many guesses you took.  
 7. You can choose to play again after finishing.
 
+## 🔮 Future Updates
+
+1. ⏳ Limit the number of guesses to make the game more challenging.
+
+2. ⚠️ Handle invalid input (e.g., letters, symbols, or numbers outside 1–100).
+
+3. 🧠 Add difficulty levels like Easy, Medium, and Hard with different guess limits.
+
 ## 🧑‍💻 Example Output
 Guess a number from 1 to 100: 50
 Higher number please: 75
